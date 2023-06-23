@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@600&display=swap");
+
+* {
+  margin: 0;
+}
+
+body,
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  font-size: 18px;
+  text-align: center;
+}
+
+section .title {
+  font-family: "Palanquin Dark", sans-serif;
+  font-size: 38px;
+  color: black;
+  margin-bottom: 15px;
+}
+
+/* intro page */
+.intro {
+  width: 100%;
+  background-color: black;
+  color: #ecedef;
+}
+
+.intro .main_txt {
+  font-family: "Palanquin Dark", sans-serif;
+  font-size: 72px;
+}
+.intro .sub_txt {
+  font-size: 24px;
+}
+
+.intro .profile_img {
+  width: 300px;
+  border-radius: 100px;
+  padding: 50px;
+}
+
+/* about me page */
+.about_me {
+  background-color: #ecedef;
+}
+
+.about_me .profile {
+  margin-bottom: 50px;
+}
+.about_me .profile li b {
+  font-size: 18px;
+  color: black;
+  margin-right: 10px;
+}
+.about_me .profile li {
+  margin-bottom: 20px;
+}
+
+.about_me .hobby li {
+  margin-bottom: 5px;
+}
+.about_me .hobby li b {
+  color: rgb(146, 95, 160);
+  margin-right: 10px;
+}
+
+/* frontend page */
+.frontend {
+  background-color: rgb(232, 219, 246);
+}
+
+.frontend .title {
+  margin-bottom: 50px;
+}
