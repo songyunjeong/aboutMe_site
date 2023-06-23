@@ -4,6 +4,7 @@ html, css로 자기소개 페이지를 만들고 Netlify로 호스팅 했습니�
 
 🖥️ [웹 사이트 보러가기](https://songyunjeong.netlify.app)
 
-<img width="1510" alt="스크린샷 2023-06-23 오후 6 07 54" src="https://github.com/songyunjeong/aboutMe_site/assets/117874502/4d234369-29a4-4e40-a23f-95db05c7f12e">
-<img width="1510" alt="스크린샷 2023-06-23 오후 6 08 13" src="https://github.com/songyunjeong/aboutMe_site/assets/117874502/3ff8d9bd-f0a0-45d2-9803-d9e7f5f638f1">
-<img width="1510" alt="스크린샷 2023-06-23 오후 6 08 30" src="https://github.com/songyunjeong/aboutMe_site/assets/117874502/6e1cd5b7-9a36-4202-a9f2-4e2a9e35b0a5">
+
+<img width="1440" alt="스크린샷 2023-06-23 오후 6 11 48" src="https://github.com/songyunjeong/aboutMe_site/assets/117874502/47be0f6a-5e5f-4f32-ad46-5f00cebd78c6">
+<img width="1440" alt="스크린샷 2023-06-23 오후 6 12 40" src="https://github.com/songyunjeong/aboutMe_site/assets/117874502/0b3c1c89-6711-4630-8293-8c2941ea51a5">
+<img width="1440" alt="스크린샷 2023-06-23 오후 6 12 18" src="https://github.com/songyunjeong/aboutMe_site/assets/117874502/96780b2d-ac36-4a9c-b4f0-0bbae708fe77">
